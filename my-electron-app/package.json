@@ -1,0 +1,26 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taneeshaa/ProductivityApp.git"
+  },
+  "keywords": [
+    "productivity"
+  ],
+  "author": "taneesha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taneeshaa/ProductivityApp/issues"
+  },
+  "homepage": "https://github.com/taneeshaa/ProductivityApp#readme",
+  "description": "",
+  "devDependencies": {
+    "electron": "^36.4.0"
+  }
+}
